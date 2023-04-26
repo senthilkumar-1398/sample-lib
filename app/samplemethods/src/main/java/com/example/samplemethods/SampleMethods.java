@@ -6,5 +6,6 @@ public class SampleMethods {
 
     public void showLog() {
         Log.e( "Tag", "showLog" );
+
     }
 }
